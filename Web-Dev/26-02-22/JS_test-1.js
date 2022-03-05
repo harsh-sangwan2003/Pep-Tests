@@ -316,10 +316,10 @@
 // let newList = [1, 2, 3].push(4);
 
 // console.log(newList.push(5));
-// A: [1, 2, 3, 4, 5] *
+// A: [1, 2, 3, 4, 5] 
 // B: [1, 2, 3, 5]
 // C: [1, 2, 3, 4]
-// D: Error
+// D: Error *
 
 // // < --------------Question 22----------------->
 // console.log('I want pizza'[0]);
